@@ -23,9 +23,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lethsphere" alt="lethsphere" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lethsphere&show_icons=true&locale=en&layout=compact" alt="lethsphere" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lethsphere&show_icons=true&locale=es&layout=compact" alt="lethsphere" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lethsphere&show_icons=true&locale=en" alt="lethsphere" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lethsphere&show_icons=true&theme=buefy&locale=es" alt="lethsphere" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lethsphere&" alt="lethsphere" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lethsphere&theme=whatsapp-dark&" alt="lethsphere" /></p>
 
