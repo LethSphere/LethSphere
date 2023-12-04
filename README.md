@@ -29,9 +29,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lethsphere&theme=tokyonight&hide_border=true&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<div align="center" >
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/jpaddeo/jpaddeo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/jpaddeo/jpaddeo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+</div>
