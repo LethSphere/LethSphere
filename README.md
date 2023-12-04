@@ -27,5 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lethsphere&show_icons=true&theme=tokyonight&locale=es" alt="lethsphere" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lethsphere&theme=whatsapp-dark&" alt="lethsphere" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lethsphere&theme=tokyonight&hide_border=true&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
