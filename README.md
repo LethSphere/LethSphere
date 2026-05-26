@@ -42,7 +42,7 @@
 </p>
 
 ![LethSphere's GitHub stats](https://kayan-github-profile-projects-featu.vercel.app/api?username=LethSphere&show_icons=true&theme=merko)
-[![Top Langs](https://kayan-github-profile-projects-featu.vercel.app/api?username=LethSphere&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=LethSphere&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
