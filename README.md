@@ -41,8 +41,8 @@
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/> </a>
 </p>
 
-![LethSphere's GitHub stats](https://github-readme-stats.vercel.app/api?username=LethSphere&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LethSphere&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![LethSphere's GitHub stats](https://kayan-github-profile-projects-featu.vercel.app/api?username=LethSphere&show_icons=true&theme=merko)
+[![Top Langs](https://kayan-github-profile-projects-featu.vercel.app/api?username=LethSphere&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
