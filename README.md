@@ -1,46 +1,59 @@
 <<h1 align="center">Hi, I'm Violeth</h1>
 <h3 align="center">Unfortunately, a developer and not a forest fairy</h3>
 
+Backend & full stack engineer based in Bogotá, Colombia.  
+I work mainly with **Go**, **NestJS/TypeScript**, and **Angular**, with production experience on AWS and Azure.
 
+---
 
-- 🌱 I’m currently learning **Angular**
+### What I'm building
 
-- 📫 How to reach me **vvalmonta@udistrital.edu.co**
+- 📦 **Inventory management system** — NestJS + PostgreSQL + Angular + Docker · *portfolio project, in progress*
 
-- ⚡ Fun fact **I can move my eyes like a chameleon 🦎**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/violeth valmont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="violeth valmont" height="30" width="40" /></a>
-<a href="https://instagram.com/violeth_az" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="violeth_az" height="30" width="40" /></a>
-<a href="https://discord.gg/lethhaze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lethhaze" height="30" width="40" /></a>
-</p>
+### Tech stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/> </a>
-   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> </a>
-   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> </a>
- <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/> </a>
-   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> </a>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> </a>
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/> </a>
- <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/> </a>
- <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/> </a>
- <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white" alt="Ionic"/> </a>
- <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/> </a>
- <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/> </a>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> </a>
-<img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/> </a>
- <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> </a>
- <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> </a>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> </a>
- <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> </a>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> </a>
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/> </a>
-</p>
+| | |
+|---|---|
+| **Backend** | Go · Beego · NestJS · Node.js · TypeScript · PHP · Python |
+| **Frontend** | Angular · React · Flutter |
+| **Databases** | PostgreSQL · MongoDB · Oracle |
+| **Cloud** | AWS · Azure |
+| **DevOps** | Docker · Terraform · GitHub Actions |
 
+---
+
+### Certifications
+
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+&nbsp;
+[![Scrum Fundamentals](https://img.shields.io/badge/Scrum-Fundamentals_Certified-009FDA?style=flat-square)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified)
+
+---
+
+### Education
+
+🎓 MSc in IT Architecture — Universidad de los Andes *(in progress)*  
+🎓 BSc in Systems Engineering — Universidad Distrital Francisco José de Caldas (2025)
+
+---
+
+### Languages
+
+🇨🇴 Spanish (native) &nbsp;·&nbsp; 🇬🇧 English (B2) &nbsp;·&nbsp; 🇧🇷 Portuguese (B2)
+
+---
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-violeth--valmont-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/violeth-valmont)
+&nbsp;
+[![Email](https://img.shields.io/badge/lethsphere%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lethsphere@gmail.com)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LethSphere&show_icons=true&theme=merko&hide_border=true&include_all_commits=true)
 ![LethSphere's GitHub stats](https://kayan-github-profile-projects-featu.vercel.app/api?username=LethSphere&show_icons=true&theme=merko)
 [![Top Langs](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=LethSphere&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
